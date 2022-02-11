@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1604141243 source:c:\users\lenovo\codeblocks\data structures\lecture6_snake_game\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<map>
+	<time.h>
+	<windows.h>
+	"Snake.cpp"
+
+1604141346 c:\users\lenovo\codeblocks\data structures\lecture6_snake_game\snake.cpp
+	<iostream>
+
+1604141346 source:c:\users\lenovo\codeblocks\data structures\lecture6_snake_game\snake.cpp
+	<iostream>
+
